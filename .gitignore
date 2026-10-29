@@ -1,0 +1,33 @@
+# --- Secrets and credentials (never commit) -------------------------------
+.env
+.env.*
+*.token
+*.key
+*.pem
+secrets/
+credentials.json
+
+# --- Vendor datasheets (copyrighted, cannot be redistributed) ------------
+# The lab's GitHub safety rule: do not commit copyrighted documents that
+# cannot be redistributed. Record the document ID in docs/ instead.
+data/**/*.pdf
+data/**/*.PDF
+*.pdf
+*.PDF
+# ...except explicitly publishable, self-authored figures
+!docs/**/*.pdf
+
+# --- Internal / confidential library exports -----------------------------
+data/**/*.clm
+data/**/*.bak
+data/**/*.mdf
+data/**/*.ldf
+*_worklist.csv
+
+# --- Local tooling and OS noise ------------------------------------------
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
