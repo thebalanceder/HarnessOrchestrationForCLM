@@ -4,7 +4,7 @@
 > geometry for a Vayo Component Library Manager (CLM) instance, with a mandatory
 > human review gate.
 
-**Student:** _[fill in your name and student ID]_
+**Student:** CHEK CHEE HIM (A24AI0021)
 **Course:** AI Engineering — Topic 1 Lab
 **Repository role:** this repository is the engineering record for the semester
 project. Requirements, architecture, data documentation, source code, prompts,

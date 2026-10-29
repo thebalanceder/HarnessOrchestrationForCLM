@@ -1,7 +1,7 @@
 # Topic 1 Lab — Part C: Project Scoping Template
 
 > **Save as:** `docs/week1_project_scope.md`
-> **Student:** _[fill in your name and student ID]_
+> **Student:** CHEK CHEE HIM (A24AI0021)
 > **Repository:** https://github.com/thebalanceder/HarnessOrchestrationForCLM
 > **Date:** 29 October 2026
 
